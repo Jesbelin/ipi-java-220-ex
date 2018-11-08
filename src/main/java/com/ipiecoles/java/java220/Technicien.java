@@ -57,6 +57,4 @@ public class Technicien extends Employe {
             + "} "
             + super.toString();
     }
-
-
 }
